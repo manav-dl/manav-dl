@@ -6,9 +6,16 @@ Currently working on(and off) a [Python Playbook](https://github.com/manav-dl/Py
 ## Skills and Interests:
 Python, AWS, Docker, C, Linux, bash
 
-# Certs:
+# Certs and links:
 [![AWS Certified Solutions Architect](https://github.com/manav-dl/manav-dl/assets/122433722/d3efbfbd-5e50-4c63-98bf-71953ae2917a)
 ](https://www.credly.com/badges/e3ff93ed-d06f-4d1e-81e3-d3ff0cdffa38/public_url)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-manavmitansh?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/manavmitansh/)
+
+[![X](https://img.shields.io/badge/X-soynonomus?style=flat-square&logo=X&logoColor=black)](https://twitter.com/soynonomus)
+
+
+
 
 
 <!--

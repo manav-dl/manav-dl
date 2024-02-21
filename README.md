@@ -7,8 +7,9 @@ Currently working on(and off) a [Python Playbook](https://github.com/manav-dl/Py
 Python, AWS, Docker, C, Linux, bash
 
 # Certs and links:
-[![AWS Certified Solutions Architect](https://github.com/manav-dl/manav-dl/assets/122433722/d3efbfbd-5e50-4c63-98bf-71953ae2917a)
-](https://www.credly.com/badges/e3ff93ed-d06f-4d1e-81e3-d3ff0cdffa38/public_url)
+[![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-Associate-007BB8?style=for-the-badge&logo=amazonaws)](https://www.credly.com/badges/e3ff93ed-d06f-4d1e-81e3-d3ff0cdffa38/public_url)
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manavmitansh?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/manavmitansh/)
 

@@ -1,7 +1,7 @@
 Hello👋 I'm a student with a passion for understanding how the _cloud architecture_ maps to the _basic hardware and software components_. My current focus is on bridging the gap between system calls, processes, memory management, networking, and high-level cloud solutions.
 
 ## Projects
-Currently working on(and off) a [Python Playbook](https://github.com/manav-dl/Python-Playground) which is solely focused on understanding what's happening underneath all the code.
+Currently working on creating documents and projects which give insights into the workings of popular tools.
 
 ## Skills and Interests:
 Python, AWS, Docker, C (recreational), Linux, bash, Terraform
